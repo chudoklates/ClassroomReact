@@ -1,0 +1,1 @@
+export { student as Student } from './student'
